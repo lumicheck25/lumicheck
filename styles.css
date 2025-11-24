@@ -25,6 +25,7 @@ header {
  }
 
 header img {
+    background: url(fondo.jpg)
     max-width: 180px;
     margin-bottom: 10px;
     height: auto;
@@ -37,7 +38,7 @@ header img {
 }
 
 .section h2 {
-    background: url(fondo.jpg);
+    color: var(--primary-color);
     border-bottom: 2px solid var(--accent-teal);
     padding-bottom: 10px;
 }
