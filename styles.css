@@ -38,6 +38,7 @@ header img {
 }
 
 .section h2 {
+    background: url(fondo.jpg)
     color: var(--primary-color);
     border-bottom: 2px solid var(--accent-teal);
     padding-bottom: 10px;
