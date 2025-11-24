@@ -15,10 +15,11 @@ body {
     background: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
+     background-image: url(fondo2.jpg)
 }
 
 header {
-    background-image: url(fondo2.jpg)
+    background: var(--primary-color);
     padding: 20px;
     text-align: center;
     color: rgb(243, 243, 243);
@@ -36,6 +37,7 @@ header img {
     margin: auto;
 }
 .section h1 {
+    .section
     background: url(fondo.jpg)
 }
 
