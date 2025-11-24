@@ -15,11 +15,11 @@ body {
     background: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
-     background-image: url(fondo2.jpg)
+    
 }
 
 header {
-    background: var(--primary-color);
+    background-image: url(fondo2.jpg)
     padding: 20px;
     text-align: center;
     color: rgb(243, 243, 243);
