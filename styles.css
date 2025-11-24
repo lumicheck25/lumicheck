@@ -18,13 +18,14 @@ body {
 }
 
 header {
-    background: var(--primary-color);
+    background-image: url(fondo.jpg);
     padding: 20px;
     text-align: center;
     color: white;
-    }
+ }
 
-header img {background-image: url(logo\ lumicheck.png);
+header img {
+
     max-width: 180px;
     margin-bottom: 10px;
     height: auto;
